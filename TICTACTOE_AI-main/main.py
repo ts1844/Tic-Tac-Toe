@@ -1,5 +1,4 @@
 # TICTACTOE AI VERSION.
-# BY RAJARAJAN ANANTH.
 
 import pygame
 import copy
